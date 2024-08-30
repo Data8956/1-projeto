@@ -1,1 +1,12 @@
-b
+() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  ackgound(html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
